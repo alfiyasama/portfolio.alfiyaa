@@ -4,8 +4,6 @@
 
 A portfolio in IT serves as a comprehensive showcase of one's skills, projects, and accomplishments, crucial for demonstrating expertise and attracting potential employers or clients.
 
-![Website image](![project-1](https://github.com/alfiyasama/portfolio.alfiyaa/assets/121941528/a6f168c4-5638-4f77-9db1-2858c56166bc))
-
 ## Project Aim
 
 This project involves building a responsive personal portfolio website that effectively highlights my diverse projects, extensive experience, and valuable skill set.
